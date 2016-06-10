@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">leisure</string>
+    <string name="action_settings">Settings</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="item_categories">Категории</string>
+    <string name="item_map">Карта</string>
+    <string name="item_search">Поиск</string>
+    <string name="item_profile">Профиль</string>
+    <string name="attenders"><a href="google.com">Вика Прокофьева</a>, <a href="google.com">Сергей Волынец</a> и еще 20</string>
+    <integer name="com_vk_sdk_AppId">5480298</integer>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/map"
+            android:checked="false"
+            android:icon="@drawable/ic_map"
+            android:title="@string/item_map" />
+        <item
+            android:id="@+id/categories"
+            android:checked="false"
+            android:icon="@drawable/ic_dashboard"
+            android:title="@string/item_categories" />
+        <item
+            android:id="@+id/search"
+            android:checked="false"
+            android:icon="@drawable/ic_search"
+            android:title="@string/item_search" />
+        <item
+            android:id="@+id/profile"
+            android:checked="false"
+            android:icon="@drawable/ic_person"
+            android:title="@string/item_profile" />
+
+    </group>
+</menu>
